@@ -70,7 +70,7 @@ TIME IN unload:
 TIME IN TOTAL:
 ```
 
-## Skills Demonstarted
+## Skills Demonstrated
  - Dynamic memory management with malloc and free.
  - Designing and using hash table with linked lists.
  - Implementing efficient string operations and case-sensitive operations.
